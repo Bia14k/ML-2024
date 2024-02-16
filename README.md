@@ -1,43 +1,40 @@
 # ML-2024
 Repositório para as atividades da disciplina
 
-Todos os notebooks estão vinculados aos datasets
+Todos os notebooks estão vinculados aos datasets nos links abaixo
 
+GIF  https://colab.research.google.com/drive/1D7SApY1Z75O-i_1LaCMaJadYt9Gt5WGw?usp=sharing
 
-GIF
-
-
-SUDOKU 4x4
-
+Sudoku 4x4 https://colab.research.google.com/drive/1ZItwYf-2tVzK_8sWXUtPaPKSstdlFSel?usp=sharing
 
 REGRESSÃO LINEAR
 
-USA_HOUSING
+USA_Housing
 https://colab.research.google.com/drive/1di__1pcZ2l6r_rXdyjNVT3BOOcRUYPaY?usp=sharing
 
-ECOMMERCE
+Ecommerce
 https://colab.research.google.com/drive/1S48KX83thhyeUOg_lRAjYuR8m27v5m3F?usp=sharing
 
 REGRESSÃO LOGÍSTICA
 
-TITANIC
+Titanic
 https://colab.research.google.com/drive/1_70z6vFV6AITiiuFL1AinO-7Pdz0qHre?usp=sharing
 
- ADVERTISING
+ Advertsing
 https://colab.research.google.com/drive/1OaSrqAq77DOthHx9evJHuigz1xUgj_33?usp=sharing
 
 DECISION TREES AND RANDOM FORESTS
 
-KYPHOSIS
+Kyphosis
 https://colab.research.google.com/drive/1lEExESwSW7j6XAYPGb_3wTBLFO_1UQ34?usp=sharing
 
-LOAN DATA
+Loan data
 https://colab.research.google.com/drive/1LT3A4_vxpJvFXLRnR9pU_mTrjzNjA-FY?usp=sharing
 
 SVM
 
-CANCER
+Cancer
 https://colab.research.google.com/drive/1soJYEVZESSrx1-23vv9oWA73kk0Tmug7?usp=sharing
 
-IRIS
+Iris
 https://colab.research.google.com/drive/1HjqNM5Av8qis4OW5e0qS3dOiS1jTv7MC?usp=sharing
