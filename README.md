@@ -38,3 +38,16 @@ https://colab.research.google.com/drive/1soJYEVZESSrx1-23vv9oWA73kk0Tmug7?usp=sh
 
 Iris
 https://colab.research.google.com/drive/1HjqNM5Av8qis4OW5e0qS3dOiS1jTv7MC?usp=sharing
+
+PCA
+
+PCA-cancer 
+https://colab.research.google.com/drive/1y7M3d-f0sOFZ0ICGWn1XqyWtMBnB0vgw?usp=sharing
+
+Wine
+https://colab.research.google.com/drive/1U5Xp3o8JLHjNYkHvHHHcd46qi5tJgGV_?usp=sharing
+
+KNN
+Classificação
+https://colab.research.google.com/drive/1cb8m4pTparLNI6erptOvW24P9Ve5dcNl?usp=sharing
+
