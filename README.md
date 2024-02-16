@@ -48,6 +48,7 @@ Wine
 https://colab.research.google.com/drive/1U5Xp3o8JLHjNYkHvHHHcd46qi5tJgGV_?usp=sharing
 
 KNN
+
 Classificação
 https://colab.research.google.com/drive/1cb8m4pTparLNI6erptOvW24P9Ve5dcNl?usp=sharing
 
