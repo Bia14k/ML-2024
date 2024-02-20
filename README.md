@@ -52,3 +52,7 @@ KNN
 Classificação
 https://colab.research.google.com/drive/1cb8m4pTparLNI6erptOvW24P9Ve5dcNl?usp=sharing
 
+NAIVE BAYES
+
+Fake or real
+https://colab.research.google.com/drive/1khGwoz48ORn1ZJREUQHztkcxSH1sOXWM?usp=sharing
