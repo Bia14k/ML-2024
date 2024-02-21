@@ -56,3 +56,10 @@ NAIVE BAYES
 
 Fake or real
 https://colab.research.google.com/drive/1khGwoz48ORn1ZJREUQHztkcxSH1sOXWM?usp=sharing
+
+RNA
+
+admission_dataset
+https://colab.research.google.com/drive/1ZHDME2nJMG4_-SOvgK7LDkq3CGQc1FMQ?usp=sharing
+
+
